@@ -1,1 +1,1 @@
-https://github.com/e-walletcurrency/e-wallet-currency..git
+https://e-walletcurrency.github.io/e-wallet-currency./
